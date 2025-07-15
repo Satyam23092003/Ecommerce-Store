@@ -116,13 +116,7 @@ To enable real payment processing with Stripe, a minimal backend is required to 
 - Stripe payments are in test mode. Use test cards from the [Stripe docs](https://stripe.com/docs/testing).
 - For production, use your live Stripe keys and deploy the backend securely.
 
----
-
-## Author
-
-Vikash Kushwah
-- GitHub: [vikash-kushwah](https://github.com/vikash-kushwah)
-- Linkedin: [vikashkushwahaa28](https://www.linkedin.com/in/vikashkushwahaa28/)
+--
 
 ## Acknowledgments
 
